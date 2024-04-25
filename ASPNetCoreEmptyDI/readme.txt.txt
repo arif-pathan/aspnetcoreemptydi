@@ -12,3 +12,6 @@ git push -u origin main
 
 To see untrack files
 git status
+
+To pull existing repo
+git clone https://github.com/username/repo-name.git
