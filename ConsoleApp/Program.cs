@@ -26,3 +26,12 @@ string str = "\n\nA list or container that can hold some things is called an IEn
 
 
 Console.WriteLine(str);
+
+
+//IEnumerable - Toget count iterate through whole collection, For reading
+//    ICollection - add, modify, delete items, Has seperate count property
+//    Ilist - add or delete items in between
+
+
+//    List<T> generics, strongly typed
+//    searching sorting filtering
